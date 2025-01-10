@@ -20,3 +20,7 @@ which shows their assigned IP ranges.
 * Azure - https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-addresses
 * Tencent Cloud
 * Alibaba Cloud (Aliyun)
+
+### IP tools
+CIDR - https://www.ipaddressguide.com/cidr
+IPinfo - https://ipinfo.io/51.79.31.253
